@@ -1,5 +1,5 @@
 # Homework-Text-Editor
-Single-page application using webpack and can be used offline and installed as a progressive web application.
+Single-page application using webpack that can be used offline and installed as a progressive web application.
 
 We were given starter code with the objective to implement methods for getting and storing data to an IndexedDB database using a package called idb.
 
