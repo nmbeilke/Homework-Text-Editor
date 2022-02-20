@@ -55,7 +55,7 @@ Webpack.
   
  
  ## Usage
- 
+ ![screenshot](https://github.com/nmbeilke/Homework-Text-Editor/blob/main/Screen%20Shot%202022-02-19%20at%204.39.33%20PM.png?raw=true)
  Link to live application: https://pacific-hollows-46116.herokuapp.com/
 
 
